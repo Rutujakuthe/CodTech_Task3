@@ -49,8 +49,7 @@ This project demonstrates advanced Java programming skills essential for develop
 ---
 
 ## OUTPUT
-<img width="630" height="537" alt="Screenshot 2026-01-31 182621" src="https://github.com/user-attachments/assets/a56c115b-81a2-41da-b43c-abbe329421c6" />
-<img width="553" height="380" alt="Screenshot 2026-01-31 182648" src="https://github.com/user-attachments/assets/6af2dd16-42e9-4a8a-859c-8e1ba2c398cf" />
-<img width="580" height="310" alt="Screenshot 2026-01-31 182711" src="https://github.com/user-attachments/assets/93d63cb0-4a6f-4f20-861e-143ef2d31167" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-03 191731" src="https://github.com/user-attachments/assets/86826566-3278-4a3a-9295-a079f1457416" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-03 191836" src="https://github.com/user-attachments/assets/a4282a15-7728-473c-800f-a033576b9692" />
 
 
